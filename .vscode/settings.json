@@ -5,6 +5,7 @@
         "string.h": "c",
         "PAT_B1011.C": "cpp",
         "PAT_B1008.C": "cpp",
-        "cstdlib": "c"
+        "cstdlib": "c",
+        "linkedlist.h": "c"
     }
 }
