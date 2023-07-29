@@ -6,6 +6,8 @@
         "PAT_B1011.C": "cpp",
         "PAT_B1008.C": "cpp",
         "cstdlib": "c",
-        "linkedlist.h": "c"
+        "linkedlist.h": "c",
+        "random": "c",
+        "stdbool.h": "c"
     }
 }
